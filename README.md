@@ -10,9 +10,9 @@ Half-Life 2, Lost Coast, Episode One and Episode Two on RK3326 and up handheld g
    `ports/halflife2/`:
    - `hl2`
    - `platform`
-   - `lostcoast` (Lost Coast)
-   - `episodic` (Episode One)
-   - `ep2` (Episode Two)
+   - `lostcoast`
+   - `episodic`
+   - `ep2`
 4. Start it from the Ports menu.
 
 Be sure you have downloaded the "steam_legacy" version of Half-Life 2. In steam, right click on Half-Life 2, click Properties, click Game Versions & Betas, and select steam_legacy from the list.
