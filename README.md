@@ -5,9 +5,9 @@ Half-Life 2, Lost Coast, Episode One and Episode Two on RK3326 and up handheld g
 ## Install
 
 1. Download the latest zip from [Releases](../../releases/latest).
-2. Unzip it into your `ports` folder.
+2. Unzip it into your `ports` folder or place it in Portmaster's `autoinstall` folder.
 3. Copy these folders from your own Steam install of Half-Life 2 into
-   `ports/halflife2/`:
+   `ports/halflife2/gamedata`:
    - `hl2`
    - `platform`
    - `lostcoast`
