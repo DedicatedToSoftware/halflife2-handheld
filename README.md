@@ -6,13 +6,7 @@ Half-Life 2, Lost Coast, Episode One and Episode Two on RK3326 and up handheld g
 
 1. Download the latest zip from [Releases](../../releases/latest).
 2. Unzip it into your `ports` folder or place it in Portmaster's `autoinstall` folder.
-3. Copy these folders from your own Steam install of Half-Life 2 into
-   `ports/halflife2/gamedata`:
-   - `hl2`
-   - `platform`
-   - `lostcoast`
-   - `episodic`
-   - `ep2`
+3. Copy the folder from your own Steam install of Half-Life 2 into `ports/halflife2/gamedata`.
 4. Start it from the Ports menu.
 
 Be sure you have downloaded the "steam_legacy" version of Half-Life 2. In steam, right click on Half-Life 2, click Properties, click Game Versions & Betas, and select steam_legacy from the list.
